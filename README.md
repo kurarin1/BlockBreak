@@ -1,5 +1,5 @@
 # BlockBreak
- Simple Block Break (pyxel)
+ Simple Block Break (pyxel)  
 This game is incomplete.
 
 Pyxelを使って作ったブロック崩し(のできそこない)です  
